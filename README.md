@@ -2,6 +2,7 @@
 
 > A single app demonstrating the use of sensors and other amazing things. 
 
+
 The things this project has rightnow:
 1. Simple Step Counter
 2. Metal Detector
